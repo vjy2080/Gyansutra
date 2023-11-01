@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "user": [
+    {
+      "id": 0,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "fname": "Admin",
+      "uname": "admin@example.com",
+      "pw": "admin",
+      "role_id": "1",
+      "id": 1
+    },
+    {
+      "fname": "Vijay",
+      "lname": "Prajapati",
+      "uname": "vjy2080@gmail.com",
+      "pw": "vjy",
+      "city": "Vavol, Gandhinagar",
+      "zip": "382017",
+      "role_id": "2",
+      "id": 2
+    },
+    {
+      "fname": "Bhavna",
+      "lname": "PRAJAPATI",
+      "uname": "bvp2080@gmail.com",
+      "pw": "bvp",
+      "city": "Vavol, Gandhinagar ",
+      "zip": "382016",
+      "role_id": "2",
+      "id": 3
+    },
+    {
+      "fname": "Krishika",
+      "lname": "PRAJAPATI",
+      "uname": "kvp2080@gmail.com",
+      "pw": "kvp",
+      "city": "Vavol, Gandhinagar ",
+      "zip": "382016",
+      "role_id": "2",
+      "id": 4
+    },
+    {
+      "fname": "nilam",
+      "lname": "PRAJAPATI",
+      "uname": "nyp2080@gmail.com",
+      "pw": "nyp",
+      "city": "Vavol, Gandhinagar ",
+      "zip": "382016",
+      "role_id": "2",
+      "id": 5
+    },
+    {
+      "fname": "nilama",
+      "lname": "PRAJAPATI",
+      "uname": "nyp2080@gmail.coma",
+      "pw": "nyp",
+      "city": "Vavol, Gandhinagar ",
+      "zip": "382016",
+      "role_id": "2",
+      "id": 6
+    },
+    {
+      "fname": "nilamab",
+      "lname": "PRAJAPATI",
+      "uname": "nyp2080@gmail.comab",
+      "pw": "nyp",
+      "city": "Vavol, Gandhinagar ",
+      "zip": "382016",
+      "role_id": "2",
+      "id": 7
+    },
+    {
+      "fname": "VIJAYKUMARdsf",
+      "lname": "ssadas",
+      "uname": "asda@dfsf",
+      "pw": "sdfsf",
+      "city": "Vavol, Gandhinagar ",
+      "zip": "382016",
+      "role_id": "2",
+      "id": 8
+    }
+  ]
+}
